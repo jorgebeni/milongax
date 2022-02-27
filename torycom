@@ -51,5 +51,5 @@ https://14103.live.streamtheworld.com/RIVADAVIAAAC_SC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", RADIO MITRE
 https://musicsrc.cvattv.com.ar/RMIT 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", fox xports premium
-https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", prueba
+https://livestreamapis.com/v3/accounts/27014129/events/8167338/master.m3u8?token=325232d55e96e6f1f7a98a31a473e2d0&clientId=18998&timestamp=1645981640160&signature=605c4756797d80000dfb2d167eacd10e49e24760fa1d22f4a28441b4faaf61d4152863c8d95aac381263c54ac9d571db
