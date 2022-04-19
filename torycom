@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:120,group-title="SD", TyC Sports SD
+https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-avc1_1499968=10009-mp4a_145200_spa=20001.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORTS
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
