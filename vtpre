@@ -1,0 +1,89 @@
+#EXTM3U
+
+#EXTINF:-1, HBO
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1, H&H
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1, TNT
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1, HBO2
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1, HBO PLUS
+https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+#EXTINF:-1, HBO FAMILY
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+#EXTINF:-1, HBO POP
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8 
+#EXTINF:-1, HBO MUNDI
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:-1, HBO EXTREME
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+#EXTINF:-1, TLC DISCOVERY
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+#EXTINF:-1, ID
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:-1, DISCOVERY TURBO
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+#EXTINF:-1, HISTORY CHANNEL HD
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+#EXTINF:-1, HISTORY 2
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+#EXTINF:-1, SONY
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+#EXTINF:-1, CINE CANAL
+https://edge5-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1, CINEMAX
+https://edge5-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1, SPACE
+https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+#EXTINF:-1, PARAMOUNT
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+#EXTINF:-1, CANAL DE LAS ESTRELLAS
+https://edge3.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
+#EXTINF:-1, GOLDEN EDGE
+
+#EXTINF:-1, ESTUDIO UNIVERSAL
+https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1, WARNER CHANEL
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1, UNIVERSAL CHANEL
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1, CARTOON NETWORK
+https://edge-vod03-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+#EXTINF:-1, AYE
+https://edge5-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+#EXTINF:-1, MTV
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1, TELEMUNDO
+https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+#EXTINF:-1, BOOMERANG
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+#EXTINF:-1, DISNEY XD
+
+#EXTINF:-1, DISNEY CHANEL
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1, DISNEY JUNIOR
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+#EXTINF:-1, NICKELODEON
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+#EXTINF:-1, NICK JR
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+#EXTINF:-1, STAR CHANEL
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1, TELENOVELAS
+
+#EXTINF:-1, AXN
+https://edge5-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1, GOLDEN
+
+#EXTINF:-1, MULTI PREMIER
+
+#EXTINF:-1, AMC
+https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+#EXTINF:-1, TBS
+https://edge5-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+#EXTINF:-1, FX
+https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
