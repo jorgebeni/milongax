@@ -56,10 +56,16 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-
 https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_2999968=10001-mp4a_145200_spa=20001.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports
+https://edge-live14-sl.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2
+https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports 3
 https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_3900000=10004-mp4a_144800_spa=20000.m3u8
 #EXTINF:-1 group-title="SD",Fox Sports 3 SD
 https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_3900000=10002-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
+https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_2499968=10007-mp4a_145200_eng=20002.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=10000
@@ -70,6 +76,12 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=10000
 https://edge4-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3-avc1_3900000=10004-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3
+https://edge-vod02-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Extra
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004-mp4a_144800_spa=20000.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Extra
