@@ -58,6 +58,8 @@ http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/26578.ts
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/308136.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium(ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371364.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 2
+https://edge1.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="DEPORTE", FOX SPORTS 1 ARG
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/232227.m3u8
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTE",  Fox Sports 2  (ARG)
