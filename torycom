@@ -48,6 +48,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371348.ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD opc 2
+https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTE",  ESPN 2
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/31814.ts
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTE",  ESPN 3  (ARG)
