@@ -39,42 +39,38 @@ http://titanicos.net:8080/trading131sdRes/EREPQGarev/233835
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM HD 
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/26530
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM SD
-https://b7i4j3n3.stackpathcdn.com/dlive/transcode-93-29/enbfuiwebf92bue/1656777951/src/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium(ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371364.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 2
-https://edge1.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 3
-https://cvattv.b-cdn.net//live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371348.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD opc 2
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTE",  ESPN 2
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/31814.ts
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png",ESPN 2 (MX)
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTE",  ESPN 3  (ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/26578.ts
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
+
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTES",  ESPN 4 (ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/308136.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="DEPORTE", FOX SPORTS 1 ARG
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/232227.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",FOX SPORTS 1
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTE",  Fox Sports 2  (ARG)
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/26533.m3u8
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTE",  Fox Sports 3 (ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/158180.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX SPORTS 3
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU", DIRECTV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg",CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png",beIN SPORT XTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
