@@ -40,6 +40,8 @@ http://titanicos.net:8080/trading131sdRes/EREPQGarev/233835
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/26530
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM SD
 https://b7i4j3n3.stackpathcdn.com/dlive/transcode-93-29/oinwe98hwef9h/1658219981/src/live.m3u8
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 4
+http://user.tvcluboficial.com/stream/free_joni_cruz/kKZ/509.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium(ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371364.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 2
