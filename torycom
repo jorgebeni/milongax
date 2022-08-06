@@ -35,15 +35,15 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU",TyC SPORT PLAY 11
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM SD 
-https://tw.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM HD 
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/94714
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM SD
-https://b7i4j3n3.stackpathcdn.com/dlive/transcode-93-29/oinwe98hwef9h/1658219981/src/live.m3u8
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 4
-http://user.tvcluboficial.com/stream/free_joni_cruz/kKZ/509.m3u8
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 5
-https://lab.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 6
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium(ARG)
