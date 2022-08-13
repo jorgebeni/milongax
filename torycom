@@ -56,6 +56,10 @@ https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 5
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  TUDN EVENTOS
+https://linear-360.frequency.stream/360/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD opc 2
