@@ -42,14 +42,14 @@ https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/ind
 
  EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 4
 
- EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 5
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 5
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=23-mp4a_59000_spa=25.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 6
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
  EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium(ARG)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 2
-https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 2
+ 
  EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 3
 
  EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 4
