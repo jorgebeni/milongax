@@ -43,7 +43,7 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 4
 http://168.197.196.98:9981/stream/channelid/1510960?TNT Sports HD
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 5
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=23-mp4a_59000_spa=25.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png", TNT SPORTS PREMIUM opc. 6
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1662426249~exp=1662426849~acl=/*~hmac=a907dc511b9a22ff9ae77c4f611099b654f53077925037ca33d87e2add6644e5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium(ARG)
