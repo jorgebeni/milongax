@@ -41,7 +41,7 @@ https://itcplay.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sport
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 1
 https://itcplay.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN Premium opc 2
-http://168.197.196.98:9981/stream/channelid/1115927856?ESPN Premium
+http://131.196.194.2:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTE",  DEPORTES | ESPN HD
 
