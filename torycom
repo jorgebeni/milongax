@@ -40,3 +40,7 @@ http://131.196.194.2:8000/play/a0ex/index.m3u8
 http://131.196.194.2:8000/play/a0ec
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTE",  ESPN 3
 http://131.196.194.2:8000/play/a0ee
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="PELICULAS",  HBO
+http://131.196.194.2:8000/play/a09m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="PELICULAS",  SONY
+http://131.196.194.2:8000/play/a09p/index.m3u8
