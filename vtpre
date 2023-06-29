@@ -1,22 +1,2 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="CUYO", CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 7 Mendoza AR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659504180/ei/07HpYpnTNo-Mhga6y6vwDA/ip/20.85.243.194/id/wFVRGjzEqOc.1/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhnAbzASw5nYepWw-2a8sD4TMu4o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIpz9dal6-PGlEQznGuZSd-tVmaRIHHLmukIcjQtCv5kCIQDymNynooaadCDQyQBvpuWWHlEt-eVgVR8bi3Jyx0Td7Q%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s88-c-k-c0x00ffffff-no-rj" tvg-id="", El Siete TV (AFILIADA AMERICA)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659504180/ei/1LHpYu7MEoyRhwakj6igBg/ip/20.85.243.194/id/wFVRGjzEqOc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhrpGt8ZEdPRM-wCkZTUND9MiX-k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDVw-3iXDlzzZp3W2MK2_J2ub_2-kpw1Ic0_qzlllp-4CICny9JIpz3mKPk5HKAXa9JSugCLgEv5dtRmuSg9vatMN/file/index.m3u8
-#EXTINF:-1 group-title="CUYO", CANAL 7 MENDOZA
-https://www.youtube.com/watch?v=wzftWTLzb9w
-#EXTINF:-1 tvg-logo="https://surmedios.com/wp-content/uploads/2021/01/cropped-logosur5www.png" group-title="CUYO", SUR MEDIOS MENDOZA
-https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
-#EXTINF:-1 group-title="CUYO", ACEQUIA TV
-https://www.youtube.com/watch?v=veZN6OLZP1Y
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1Be1pl8LDls/T0xCN4AbfhI/AAAAAAAASb8/YSBQlW4zUMc/s1600/tveomendoza.png" group-title="CUYO", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MUSICA", COOPE TV
-https://ingest-wza.bustream.com/coopetv/smil:rates73.smil/chunklist_w1427470965_b106000_slen.m3u8
-
-
-
