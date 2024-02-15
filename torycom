@@ -12,6 +12,8 @@ http://visualservice.xyz:8080/jorgemoli/YNBVV/67384
 http://visualservice.xyz:8080/jorgemoli/YNBVV/22895
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", Espacio Panamericano Prem2
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1528
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", TANGO NACIONAL TOTAL 2
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153802
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="FUTBOL ARG", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU",TyC SPORT 1
