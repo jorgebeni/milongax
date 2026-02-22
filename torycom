@@ -20,8 +20,8 @@ http://190.7.19.197:8098/play/a0fy/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="FUTBOL ARG", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU",TyC SPORT 1
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU",LPF PLAY 1
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/fb50512d-1fa9-4bd8-9080-541f4f95a5ab/0c74a9e7-b784-448b-9257-1b6d32e05bd6/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU",TyC SPORT PLAY
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU",TyC SPORT 2
